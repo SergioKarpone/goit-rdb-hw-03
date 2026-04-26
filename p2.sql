@@ -1,0 +1,1 @@
+SELECT avg(price), min(price), max(price) FROM products;
